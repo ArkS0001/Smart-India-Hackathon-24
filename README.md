@@ -3,6 +3,8 @@
 
 ![DALL·E 2024-09-02 23 48 54 - A futuristic and dynamic scene representing Smart India Hackathon (SIH) 2024  The image should depict a blend of cutting-edge technology and innovatio](https://github.com/user-attachments/assets/c7464194-b7dc-416e-9c98-fc22d7a36a5f)
 
+![DALL·E 2024-09-02 23 51 08 - A futuristic and dynamic scene representing the Smart India Hackathon (SIH) 2024  The image features students collaborating on tech projects in a high](https://github.com/user-attachments/assets/9b0b8409-76f1-4573-9549-a13c8f8b8833)
+
 
 Team Request- Go through problem statements
 ```
