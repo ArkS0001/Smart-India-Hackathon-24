@@ -1,4 +1,4 @@
- web application specifically designed for Indian coal mines to quantify their carbon footprint and explore pathways to carbon neutrality
+# web application specifically designed for Indian coal mines to quantify their carbon footprint and explore pathways to carbon neutrality
 
 Background: India faces a complex challenge in balancing its reliance on coal for energy with its climate change commitments. Coal mining is a major source of carbon emissions, a greenhouse gas contributing to global warming. To achieve carbon neutrality, the Indian coal sector needs to offset its emissions. This can be done through a combination of strategies like reducing emissions from mining activities, adopting cleaner technologies, and offsetting remaining emissions by planting trees that absorb carbon dioxide. A web-based application can be a powerful tool in this journey by helping quantify a mine's carbon footprint and evaluate potential pathways to carbon neutrality.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
