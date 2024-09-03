@@ -40,7 +40,7 @@ Analysis: The challenge involves using AI and NLP to create voice assistants tha
 Focus: Predicting and preventing crop diseases using AI.
 Analysis: This agricultural problem requires developing an AI model that can analyze data from images, climate conditions, and other factors to detect crop diseases early. Image recognition with machine learning, satellite data, or IoT integration for real-time monitoring could be key components.
 
-#Problem 1744
+# Problem 1744
 Focus: AI-based disaster management and response system.
 Analysis: The task is to develop a disaster management system that predicts disasters and provides a response mechanism. The focus here is real-time data analysis using AI/ML models, integrated with historical disaster data and early warning systems to inform authorities for rapid action.
 
