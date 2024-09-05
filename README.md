@@ -1,6 +1,9 @@
 # Smart-India-Hackathon-24
 (SIH) is a premier nationwide initiative designed to engage students in solving some of the most pressing challenges faced in everyday life. Launched to foster a culture of innovation and practical problem-solving
 
+![coal drawio](https://github.com/user-attachments/assets/9ad68cbd-8a6c-4d98-8b5c-5d7263492ba3)
+
+
 ![DALL·E 2024-09-02 23 48 54 - A futuristic and dynamic scene representing Smart India Hackathon (SIH) 2024  The image should depict a blend of cutting-edge technology and innovatio](https://github.com/user-attachments/assets/c7464194-b7dc-416e-9c98-fc22d7a36a5f)
 
 ![DALL·E 2024-09-02 23 51 08 - A futuristic and dynamic scene representing the Smart India Hackathon (SIH) 2024  The image features students collaborating on tech projects in a high](https://github.com/user-attachments/assets/9b0b8409-76f1-4573-9549-a13c8f8b8833)
